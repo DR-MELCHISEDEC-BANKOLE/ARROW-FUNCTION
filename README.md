@@ -85,8 +85,8 @@ Here are the key principles of arrow function syntax:
    ```
 
 These principles make arrow functions a concise and expressive way to define functions in JavaScript, particularly in scenarios where short, anonymous functions are needed. 
-However, it's essential to be aware of their limitations, such as the lack of a `this` context and the inability to use the `arguments` object.
 
+However, it's essential to be aware of their limitations, such as the lack of a `this` context and the inability to use the `arguments` object.
 Here's a table summarizing the pros and cons of arrow functions in JavaScript:
 
 | Pros                                        | Cons                                    |
